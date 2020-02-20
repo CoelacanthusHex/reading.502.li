@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>木子</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.502.li/"/>
+  <updated>2020-02-20T02:22:37.901Z</updated>
+  <id>https://blog.502.li/</id>
+  
+  <author>
+    <name>木子</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PSYCHO-PASS 心理测量者小说读后感</title>
+    <link href="https://blog.502.li/PSYCHO-PASS-booklist.html"/>
+    <id>https://blog.502.li/PSYCHO-PASS-booklist.html</id>
+    <published>2020-01-05T16:00:00.000Z</published>
+    <updated>2020-02-20T02:22:37.901Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;题记&quot;&gt;&lt;a href=&quot;#题记&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="木子" scheme="https://blog.502.li/author/%E6%9C%A8%E5%AD%90/"/>
+    
+    
+      <category term="小说" scheme="https://blog.502.li/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+      <category term="读后感" scheme="https://blog.502.li/tags/%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
+    
+      <category term="书单" scheme="https://blog.502.li/tags/%E4%B9%A6%E5%8D%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019 年读书笔记和思考</title>
+    <link href="https://blog.502.li/2019-reading-notes.html"/>
+    <id>https://blog.502.li/2019-reading-notes.html</id>
+    <published>2019-12-30T16:00:00.000Z</published>
+    <updated>2020-02-20T02:21:38.420Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;更新日志&quot;&gt;&lt;a href=&quot;#更新日志&quot; class=&quot;headerlink&quot; title=&quot;更新日志&quot;&gt;&lt;/a&gt;更新日志&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;2019-11-10 初步开始写&lt;/li&gt;
+&lt;li&gt;2019-11-30
+        
+      
+    
+    </summary>
+    
+    
+      <category term="木子" scheme="https://blog.502.li/author/%E6%9C%A8%E5%AD%90/"/>
+    
+    
+      <category term="思考" scheme="https://blog.502.li/tags/%E6%80%9D%E8%80%83/"/>
+    
+      <category term="摘抄" scheme="https://blog.502.li/tags/%E6%91%98%E6%8A%84/"/>
+    
+      <category term="笔记" scheme="https://blog.502.li/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="阅读" scheme="https://blog.502.li/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深入理解 Linux 内核</title>
+    <link href="https://blog.502.li/kernel-note-book.html"/>
+    <id>https://blog.502.li/kernel-note-book.html</id>
+    <published>2019-10-19T16:00:00.000Z</published>
+    <updated>2020-02-20T02:20:01.091Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ol&gt;
+&lt;li&gt;&lt;p&gt;在ps命令的输出中很容易识别内核线程，其名称都置于方括号内&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;linux内核把虚拟地址空间划分为两个部分：核心态和用户状态。两种状态的关键差别在于对高于TASK_SIZE的内存区域的访问&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;伙
+        
+      
+    
+    </summary>
+    
+    
+      <category term="木子" scheme="https://blog.502.li/author/%E6%9C%A8%E5%AD%90/"/>
+    
+    
+      <category term="linux" scheme="https://blog.502.li/tags/linux/"/>
+    
+      <category term="摘抄笔记" scheme="https://blog.502.li/tags/%E6%91%98%E6%8A%84%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>独裁者手册读书笔记</title>
+    <link href="https://blog.502.li/The-Dictator-Handbook.html"/>
+    <id>https://blog.502.li/The-Dictator-Handbook.html</id>
+    <published>2019-09-17T16:00:00.000Z</published>
+    <updated>2020-02-20T02:20:14.894Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;今年年初的时候，在栋叔（软件那些事儿电台博主、绿帽子大学校长、钢管舞演员、滴滴车司机）群里见到他推荐的这本书《独裁者手册》。最近一个月才抽空花了10个小时读完了它，在此记录一下（大部分内容照抄自原文）：&lt;/p&gt;
+&lt;p&gt;PS：栋叔是个很有趣的中年油腻老男人，这是他博客&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="布鲁斯·布鲁诺·德·梅斯奎塔" scheme="https://blog.502.li/author/%E5%B8%83%E9%B2%81%E6%96%AF%C2%B7%E5%B8%83%E9%B2%81%E8%AF%BA%C2%B7%E5%BE%B7%C2%B7%E6%A2%85%E6%96%AF%E5%A5%8E%E5%A1%94/"/>
+    
+      <category term="阿拉斯泰尔·史密斯" scheme="https://blog.502.li/author/%E5%B8%83%E9%B2%81%E6%96%AF%C2%B7%E5%B8%83%E9%B2%81%E8%AF%BA%C2%B7%E5%BE%B7%C2%B7%E6%A2%85%E6%96%AF%E5%A5%8E%E5%A1%94/%E9%98%BF%E6%8B%89%E6%96%AF%E6%B3%B0%E5%B0%94%C2%B7%E5%8F%B2%E5%AF%86%E6%96%AF/"/>
+    
+    
+      <category term="政治" scheme="https://blog.502.li/tags/%E6%94%BF%E6%B2%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学会提问：批判性思维指南</title>
+    <link href="https://blog.502.li/Asking-the-right-questions.html"/>
+    <id>https://blog.502.li/Asking-the-right-questions.html</id>
+    <published>2019-06-27T16:00:00.000Z</published>
+    <updated>2020-02-20T02:20:11.211Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-基本概念&quot;&gt;&lt;a href=&quot;#1-基本概念&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="尼尔·布朗" scheme="https://blog.502.li/author/%E5%B0%BC%E5%B0%94%C2%B7%E5%B8%83%E6%9C%97/"/>
+    
+    
+      <category term="思考" scheme="https://blog.502.li/tags/%E6%80%9D%E8%80%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自然史</title>
+    <link href="https://blog.502.li/buffon.html"/>
+    <id>https://blog.502.li/buffon.html</id>
+    <published>2018-11-19T16:00:00.000Z</published>
+    <updated>2020-02-20T02:20:08.177Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;世界万物运转无止息，万物都在的世间洪流中相遇&lt;br&gt;在广袤无尽的空间中，以及物换星移的接轨瞬间&lt;br&gt;万物混成冥河，不拘任何形体，不拘任何被赋予的形象&lt;br&gt;因此，万事万物或相近，或远离，或合一，或分离&lt;br&gt;或相容，或相斥，或生，或灭，恒久不变的，只有交互作用的力，&lt;br
+        
+      
+    
+    </summary>
+    
+    
+      <category term="布封" scheme="https://blog.502.li/author/%E5%B8%83%E5%B0%81/"/>
+    
+    
+      <category term="诗词" scheme="https://blog.502.li/tags/%E8%AF%97%E8%AF%8D/"/>
+    
+      <category term="摘抄" scheme="https://blog.502.li/tags/%E6%91%98%E6%8A%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Justice：公正该如何做是好</title>
+    <link href="https://blog.502.li/justic.html"/>
+    <id>https://blog.502.li/justic.html</id>
+    <published>2018-11-19T16:00:00.000Z</published>
+    <updated>2020-02-20T02:19:47.471Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;此文引用自互联网&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;1-《杀人的道德侧面》&quot;&gt;&lt;a href=&quot;#1-《杀人的道德侧面》&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="网络" scheme="https://blog.502.li/author/%E7%BD%91%E7%BB%9C/"/>
+    
+    
+      <category term="公开课" scheme="https://blog.502.li/tags/%E5%85%AC%E5%BC%80%E8%AF%BE/"/>
+    
+  </entry>
+  
+</feed>
